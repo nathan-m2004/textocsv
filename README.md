@@ -1,6 +1,6 @@
 # Text File to CSV Filter
 
-This is a wonky command-line program that filters a text file using a regular expression and outputs the results to a CSV file. It's built with Node.js and uses `commander` for command-line options and `chalk` for colorful console output.
+This is a wonky command-line program that filters a text file using a regular expression and outputs the results to a CSV file. It's built with Node.js and uses `commander` for command-line options and `chalk` for colorful console output. It was made to solve a specific problem, works for me so right now I don't have interest in making it better
 
 -----
 
